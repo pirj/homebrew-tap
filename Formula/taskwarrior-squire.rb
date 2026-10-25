@@ -1,8 +1,8 @@
 class TaskwarriorSquire < Formula
   desc "Taskwarrior for one human and the AI assistants who work for them"
   homepage "https://github.com/pirj/taskwarrior-squire"
-  url "https://github.com/pirj/taskwarrior-squire/archive/refs/tags/v0.17.0.tar.gz"
-  sha256 "2409e77084b6e959eaad3628a953e5b4329a36fcd83160cc836832b8f25ab052"
+  url "https://github.com/pirj/taskwarrior-squire/archive/refs/tags/v0.17.1.tar.gz"
+  sha256 "4fd56cbe4cd810070e7dfeb50f187647a00f67a3965d447a2b66f32f9e0153e1"
   license "MIT"
 
   depends_on "task"
